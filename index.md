@@ -12,7 +12,7 @@ This portfolio contains samples of my work as part of my undergraduate degree at
   <tbody>
     <tr>
       <td>4</td>
-      <td><a href="https://github.com/BNU-Comp/derek.github.io/blob/gh-pages/CO452.html" >CO452 Programming Concepts</a></td>
+      <td><a href="https://bnu-comp.github.io/derek.github.io/CO452.html" >CO452 Programming Concepts</a></td>
       <td>Java, GitHub, Console Apps, OOPs, UML</td>
     </tr>
     <tr>
